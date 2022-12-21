@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Farhugz">
-    <img src="https://github.com/Farhugz/Farhugz/blob/774fa1775d129229b05893527a134708e3a10062/hf-github.png" alt="Hugo Farrugia" /></a>
+    <img src="https://github.com/Farhugz/Farhugz/blob/b24290a1dd8e9387b490962565fea0d30658075b/1342.png" alt="Hugo Farrugia" /></a>
 </p>
 
 <p align="center">
