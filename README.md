@@ -63,4 +63,5 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact)](https://github.com/farhugz/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhugz&show_icons=true&theme=codeSTACKr)
+<img src="https://github-readme-stats.vercel.app/api?username=farhugz&show_icons=true&theme=codeSTACKr" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhugz"/>
