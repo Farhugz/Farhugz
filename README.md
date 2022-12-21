@@ -17,12 +17,15 @@
 <br />
 
 <h3>🔎 About me :</h3>
-<p>I have spent the last 10 years working in the retail industry, starting as a golf instructor and ending up as a lead trainer in a large group.
+<p> Hey ! I am Hugo Farrugia,
+
+I have spent the last 10 years working in the retail industry, starting as a golf instructor and ending up as a lead trainer in a large group.
 
 For those 10 fast-paced years, my driving force was the challenge and passion to learn, to push my limits, and to grow the business.
 To find the solution that would allow us to go further, from a technical point of view but especially human.
 
 Today, digital technology is taking more and more place in our busy lives. A lot of fascinating projects arise every day, and I want to part in them.
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 👀 If you see where I’m going with this, let’s talk 🙂📬</p>
 
