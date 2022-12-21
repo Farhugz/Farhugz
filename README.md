@@ -7,14 +7,24 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78729&center=true&vCenter=true&width=635&lines=Full-Stack+web+and+app+developer;Always+learning+new+things;Simply+passionate+.+.+." alt="Typing SVG" /></a>
 </p>
 
-
-
-
-
-
-
+<br />
+<br />
+<br />
 
 <h3 align="center">🔎 About me :</h3>
+I have spent the last 10 years working in the retail industry, starting as a golf instructor and ending up as a lead trainer in a large group.
+
+For those 10 fast-paced years, my driving force was the challenge and passion to learn, to push my limits, and to grow the business.
+To find the solution that would allow us to go further, from a technical point of view but especially human.
+
+Today, digital technology is taking more and more place in our busy lives. A lot of fascinating projects arise every day, and I want to part in them.
+
+👀 If you see where I’m going with this, let’s talk 🙂📬
+
+<br />
+<br />
+<br />
+
 
 - 👋 Hi, I’m Hugo Farrugia
 - 👀 I’m interested in Programming 
