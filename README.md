@@ -14,5 +14,5 @@
 - 📫 How to reach me ? --> Message me :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact)](https://github.com/farhugz/github-readme-stats)
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/farhugz)](https://badges.pufler.dev)
 
