@@ -77,20 +77,34 @@ My passion for software lies with dreaming up ideas and making them come true wi
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+            <span><strong>JavaScript</strong></span><br>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+            <span><strong>HTML5</strong></span><br>
+            <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+            <span><strong>Git</strong></span><br>
+            <a href="https://github.com/Farhugz" >
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+            </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+            <span><strong>Ruby</strong></span><br>
+            <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="40" height="40"/>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Rails</strong></span><br>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="Rails" width="40" height="40" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Heroku</strong></span><br>
+            <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Figma</strong></span><br>
+            <img src="https://i.imgur.com/eavyZif.png" alt="figma" width="40" height="40" />
             </td>
         </tr>
     </tbody>
