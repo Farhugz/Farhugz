@@ -48,7 +48,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
   <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/782/228/png-transparent-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo-ruby-thumbnail.png" alt="Rails" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="Rails" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/>
 </p>  
 
