@@ -95,14 +95,25 @@ My passion for software lies with dreaming up ideas and making them come true wi
         </tr>
     </tbody>
 </table>
+
 <br />
 <br />
-
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact" />
 
+<br />
+<br />
+
+<h3>🔥🐣 My Github stats :</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=farhugz&show_icons=true&theme=codeSTACKr" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhugz"/>
+
+<br />
+<br />
+
+<h3>🤭 Change your mind, read this :</h3>
+
+<br />
+<br />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
