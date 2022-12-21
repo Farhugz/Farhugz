@@ -109,7 +109,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=farhugz&show_icons=true&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhugz&theme=dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhugz&theme=github_dark" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhugz&theme=dark" /> 
 </p>
 <br />
 <br />
