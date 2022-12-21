@@ -107,7 +107,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <h3>🔥🐣 My Github stats :</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=farhugz&show_icons=true&theme=codeSTACKr" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhugz&theme=codeSTACKr" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhugz&theme=tokyonight" />
 </p>
 <br />
 <br />
