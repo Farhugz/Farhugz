@@ -74,7 +74,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
             </td>
             <td width="80px" align="center">
             <span><strong>MySql</strong></span><br>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
@@ -91,12 +91,6 @@ My passion for software lies with dreaming up ideas and making them come true wi
             <td width="80px" align="center">
             <span><strong>Illustrator</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Git</strong></span><br>
-            <a href="https://github.com/Farhugz" >
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-            </a>
             </td>
             <td width="80px" align="center">
             <span><strong>Ruby</strong></span><br>
