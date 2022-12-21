@@ -70,15 +70,11 @@ My passion for software lies with dreaming up ideas and making them come true wi
             </td>
             <td width="80px" align="center">
             <span><strong>Photoshop</strong></span><br>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Html" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
-            <span><strong>Photoshop</strong></span><br>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Html" width="40" height="40"/>
-            </td>  
-            <td width="80px" align="center">
-            <span><strong>Postgresql</strong></span><br>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/>
+            <span><strong>MySql</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
@@ -94,7 +90,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
             </td>
             <td width="80px" align="center">
             <span><strong>Illustrator</strong></span><br>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Html" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
