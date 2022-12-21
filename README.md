@@ -99,7 +99,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <br />
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact&theme=tokyonight" />
 </p>
 <br />
 <br />
