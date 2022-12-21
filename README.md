@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F78729&vCenter=true&width=435&lines=Full-Stack+Web+Developper;Simply+passionate+.+.+." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F78729&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Simply+passionate+.+.+." alt="Typing SVG" /></a>
 </p>
 
 - 👋 Hi, I’m Hugo Farrugia
