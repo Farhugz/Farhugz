@@ -15,4 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact)](https://github.com/farhugz/github-readme-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhugz)](https://github.com/anuraghazra/github-readme-stats)
