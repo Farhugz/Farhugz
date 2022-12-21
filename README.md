@@ -36,6 +36,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <a href="https://www.linkedin.com/in/hugo-farrugia/"><img width="32px" alt="Linkedin" title="Linkedin acc" src="https://i.imgur.com/xabyymZ.png"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farhugzdev@gmail.com"><img width="32px" alt="Gmail" title="Gmail acc" src="https://i.imgur.com/if3C5r0.png"></a> 
 
+<br />
+<br />
+
 <h3>🛠 Languages and Tools :</h3>
 <p>
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/>
@@ -53,7 +56,8 @@ My passion for software lies with dreaming up ideas and making them come true wi
   <img src="https://i.imgur.com/eavyZif.png" alt="figma" width="40" height="40" />
 </p>  
 
-
+<br />
+<br />
 
 
 
