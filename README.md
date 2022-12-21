@@ -7,6 +7,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78729&center=true&vCenter=true&width=635&lines=Full-Stack+web+and+app+developer;Always+learning+new+things;Simply+passionate+.+.+." alt="Typing SVG" /></a>
 </p>
 
+
+<h3 align="center">🔎 About me :</h3>
+
 - 👋 Hi, I’m Hugo Farrugia
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Back & Front Dev's
