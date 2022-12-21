@@ -69,6 +69,14 @@ My passion for software lies with dreaming up ideas and making them come true wi
             <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
+            <span><strong>Photoshop</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Html" width="40" height="40"/>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Photoshop</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Html" width="40" height="40"/>
+            </td>  
+            <td width="80px" align="center">
             <span><strong>Postgresql</strong></span><br>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/>
             </td>
@@ -83,6 +91,10 @@ My passion for software lies with dreaming up ideas and making them come true wi
             <td width="80px" align="center">
             <span><strong>HTML5</strong></span><br>
             <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Illustrator</strong></span><br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Html" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
