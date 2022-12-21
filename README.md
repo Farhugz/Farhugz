@@ -32,13 +32,26 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <br />
 <br />
 
+<h3>📧 Connect with me :</h3>
+<a href="https://www.linkedin.com/in/hugo-farrugia/"><img width="32px" alt="Linkedin" title="Linkedin acc" src="https://i.imgur.com/xabyymZ.png"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=farhugzdev@gmail.com"><img width="32px" alt="Gmail" title="Gmail acc" src="https://i.imgur.com/if3C5r0.png"></a> 
+
+<h3>🛠 Languages and Tools :</h3>
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/>
+<a href="https://github.com/Farhugz" >
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/>
 
 
-- 👋 Hi, I’m Hugo Farrugia
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Back & Front Dev's
-- 💞️ I’m looking to collaborate on everything!
-- 📫 How to reach me ? --> Message me :)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact)](https://github.com/farhugz/github-readme-stats)
 
