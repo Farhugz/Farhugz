@@ -98,7 +98,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 <br />
 <br />
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact&theme=dark" />
 </p>
 <br />
