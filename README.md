@@ -6,10 +6,16 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78729&center=true&vCenter=true&width=635&lines=Full-Stack+web+and+app+developer;Always+learning+new+things;Simply+passionate+.+.+." alt="Typing SVG" /></a>
 </p>
+
 <br />
+
 <p align="center">
+  <a href="https://github.com/Farhugz"><img width="32px" alt="Git" title="Github repo" src="https://i.imgur.com/AFYSu4X.png"></a>
+  <a href="https://www.linkedin.com/in/hugo-farrugia/"><img width="32px" alt="Linkedin" title="Linkedin acc" src="https://i.imgur.com/xabyymZ.png"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farhugzdev@gmail.com"><img width="32px" alt="Gmail" title="Gmail acc" src="https://i.imgur.com/if3C5r0.png"></a>
   <a href="https://www.instagram.com/yughugs/?hl=en"><img width="32px" alt="Insta" title="Instagram acc" src="https://i.imgur.com/xuwb9sS.png"></a>
 </p>  
+
 <br />
 <br />
 
