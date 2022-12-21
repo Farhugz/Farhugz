@@ -98,9 +98,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 <br />
 <br />
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact" />
-
+</p>
 <br />
 <br />
 
@@ -112,8 +112,5 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <br />
 
 <h3>🤭 Change your mind, read this :</h3>
-
-<br />
-<br />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
