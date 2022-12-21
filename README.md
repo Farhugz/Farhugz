@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/hugo-farrugia/"><img width="32px" alt="Linkedin" title="Linkedin acc" src="https://i.imgur.com/xabyymZ.png"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farhugzdev@gmail.com"><img width="32px" alt="Gmail" title="Gmail acc" src="https://i.imgur.com/if3C5r0.png"></a>
   <a href="https://www.instagram.com/yughugs/?hl=en"><img width="32px" alt="Insta" title="Instagram acc" src="https://i.imgur.com/xuwb9sS.png"></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=farhugz.visitor-badge" />
 </p>  
 
 <br />
