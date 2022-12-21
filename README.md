@@ -56,6 +56,8 @@ My passion for software lies with dreaming up ideas and making them come true wi
   <img src="https://i.imgur.com/eavyZif.png" alt="figma" width="40" height="40" />
 </p>  
 
+<img alt="FarHugz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhugz&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
+
 <br />
 <br />
 
