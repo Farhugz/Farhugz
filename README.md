@@ -50,7 +50,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
   <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="Rails" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png"          alt="figma" width="40" height="40" />
+  <img src="https://i.imgur.com/eavyZif.png" alt="figma" width="40" height="40" />
 </p>  
 
 
