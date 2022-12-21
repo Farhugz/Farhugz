@@ -99,14 +99,14 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <br />
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact&theme=codeSTACKr" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhugz&layout=compact&theme=dark" />
 </p>
 <br />
 <br />
 
 <h3>🔥🐣 My Github stats :</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farhugz&show_icons=true&theme=codeSTACKr" />
+<img src="https://github-readme-stats.vercel.app/api?username=farhugz&show_icons=true&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhugz&theme=dark" />
 </p>
 <br />
