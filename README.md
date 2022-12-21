@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Farhugz">
-    <h2 <strong>Hugo<span style="color: #68B984">Farrugia</span></strong></h2></a>
+    <img src="Farhugz/hf-github.png" alt="Hugo Farrugia" /></a>
 </p>
 
 <p align="center">
