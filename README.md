@@ -56,18 +56,19 @@ My passion for software lies with dreaming up ideas and making them come true wi
   <img src="https://i.imgur.com/eavyZif.png" alt="figma" width="40" height="40" />
 </p>  
 
+
 <table width="640px">
     <tbody>
         <tr valign="top">
-            <td width="80px">
+            <td width="80px" align="center">
             <span><strong>VScode</strong></span><br>
             <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/>
             </td>
-            <td width="80px">
+            <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
             <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
             </td>
-            <td width="80px">
+            <td width="80px" align="center">
             <span><strong>Postgresql</strong></span><br>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/>
             </td>
@@ -91,7 +92,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
             <span><strong>CSS</strong></span><br>
             <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
             </td>
-
+        </tr>
+    </tbody>
+</table>
 <br />
 <br />
 
