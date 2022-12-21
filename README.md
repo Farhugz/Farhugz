@@ -40,23 +40,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 <br />
 
 <h3>🛠 Languages and Tools :</h3>
-<p>
-  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/>
-  <a href="https://github.com/Farhugz" >
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="Rails" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku" width="40" height="40"/>
-  <img src="https://i.imgur.com/eavyZif.png" alt="figma" width="40" height="40" />
-</p>  
-
-
+<br /> 
 <table width="640px">
     <tbody>
         <tr valign="top">
