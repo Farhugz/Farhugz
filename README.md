@@ -10,15 +10,15 @@
 <br />
 <br />
 
-<h3 align="center">🔎 About me :</h3>
-<p align="center">I have spent the last 10 years working in the retail industry, starting as a golf instructor and ending up as a lead trainer in a large group.</p>
+<h3>🔎 About me :</h3>
+<p>I have spent the last 10 years working in the retail industry, starting as a golf instructor and ending up as a lead trainer in a large group.
 
-<p align="center">For those 10 fast-paced years, my driving force was the challenge and passion to learn, to push my limits, and to grow the business.</p>
-<p align="center">To find the solution that would allow us to go further, from a technical point of view but especially human.</p>
+For those 10 fast-paced years, my driving force was the challenge and passion to learn, to push my limits, and to grow the business.
+To find the solution that would allow us to go further, from a technical point of view but especially human.
 
-<p align="center">Today, digital technology is taking more and more place in our busy lives. A lot of fascinating projects arise every day, and I want to part in them.</p>
+Today, digital technology is taking more and more place in our busy lives. A lot of fascinating projects arise every day, and I want to part in them.
 
-<p align="center">👀 If you see where I’m going with this, let’s talk 🙂📬</p>
+👀 If you see where I’m going with this, let’s talk 🙂📬</p>
 
 <br />
 <br />
